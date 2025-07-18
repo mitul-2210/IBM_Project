@@ -12,6 +12,7 @@ This project applies Isolation Forest and Random Forest to detect fraudulent tra
 ```bash
 pip install -r requirements.txt
 python fraud_detection.py
+```
 
 ## Dataset
 Due to file size limits, we do not include `creditcard.csv` here.
