@@ -20,7 +20,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-def load_data(csv_path="creditcard.csv"):
+def load_data(csv_path="https://ibm-project-bucket-19.s3.us-east-1.amazonaws.com/creditcard.csv"):
     print("Loading dataset...")
     data = pd.read_csv(csv_path)
     return data
