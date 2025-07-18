@@ -73,6 +73,10 @@ def run_random_forest(X_train, X_test, Y_train, Y_test):
     model.fit(X_train, Y_train)
     y_pred = model.predict(X_test)
     evaluate_model(Y_test, y_pred, model_name="Random Forest")
+    import joblib
+    joblib.dump(model, "random_forest_model.pkl")
+    print("✅ Model saved as 'random_forest_model.pkl'")
+
 
 
 def main():
