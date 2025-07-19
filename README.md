@@ -1,4 +1,3 @@
-Absolutely! Here's a properly formatted `README.md` **code block** that you can directly copy-paste into your GitHub repo:
 
 ---
 
