@@ -120,5 +120,5 @@ joblib
 
 ## 📬 Author
 
-- 👨‍💻 [Mitul Patel](https://github.com/mitul-2210)
+- 👨‍💻 [Mitul Tandon](https://github.com/mitul-2210)
 - 🌐 GitHub Repo: [IBM_Project](https://github.com/mitul-2210/IBM_Project)
